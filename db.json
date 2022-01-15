@@ -1,0 +1,39 @@
+{
+  "custom": [
+    {
+      "id": "1",
+      "name": "Simple Sample",
+      "address": "PH"
+    }
+  ],
+  "posts": [
+    { 
+      "id": 1, 
+      "title": "Quick Fox", 
+      "author": "Simplify JS" 
+    },
+    { 
+      "id": 2, 
+      "title": "Brown Sheep", 
+      "author": "Simplify JS" 
+    },
+    { 
+      "id": 3, 
+      "title": "Lazy Fox", 
+      "author": "Other Human" 
+    }
+  ],
+  "comments": [
+    { 
+      "id": 1, 
+      "body": "Could you jump?", 
+      "postId": 1 
+    }
+  ],
+  "profile": { 
+    "name": "Other Human" 
+  }
+  
+}
+
+
